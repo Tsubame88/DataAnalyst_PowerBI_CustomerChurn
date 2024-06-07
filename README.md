@@ -62,5 +62,16 @@ The churn rate of persons who actived international call but dont have Intl Plan
 Also, I discoverd that the churn rate for customers who have Intl Plan but dont but don't active the call is sky-high of 71.19 %.
 Recommand to Databel: Contact customers who are on Intl Plan but dont have international call and propose they to downgrade their plan. This will increase customer satisfaction and stop customer from churning.
 
-### Creating a cohesive story 
+### III- Creating a cohesive story 
+
+1. Overview Page.
+2. Age Ggoup Page  
+From the age of 60 the churn rate increase. other graph tell us that moving cuqtomer in yearly contract could greatly reduce the churn rate.
+3. Payment and contract
+
+The average number of Customer Service calls of those who have Monthly contract and pay by Direct Debit is 1.47. This is high. 
+The churn rate of these cuqtoler is 53.90% ,quite high. It is clear that the ones who call customer service often is the ones who churn more than average. 
+Databel should definitely investigate what's going on here. Maybe there was a problem with teh payment method that need to be looked into. 
+
+
 
