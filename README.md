@@ -39,6 +39,8 @@ There are many kind of contract "One Year" "Two Year" "Month-to-Month". WE can g
 + The persons who are in monthly contract have hight churn rate of 46.29%
 + The person who are in yearly contract have low churn rate of 6.62%
 
+**Recommand to Databel**: to stop customer from churning we can propose them to use yearly contract.
+
 ### Exploring the payment method 
 There are 3 types of payments and "Paper check" has the smallest of customers only 371 persons 5.55% of total 
 
@@ -50,17 +52,21 @@ It appears that customers who are on unlimited plan are more likely to churn 32.
 
 Let's see if it is related to a certain amount of mobile data(GB) being used 
 
-CHurn rate for people on an unlimited plan who consume less than 5 GB of data is 34.71%
+CHurn rate for people on an unlimited plan who consume less than 5 GB of data is 34.71%.
+Its quite high. 
+**Recommand to Databal** : Contact customers who are on Unlimited Plan but use less than 5G and propose them to downgrade their plan. This will increase customers satisfaction and stop customer from churning.
 
 ### Inspecting International call 
 Databel curious about the behavior of customers who call internationally and if paying for an international plan influences their loyalty 
 
 **Intl Plan**: indicates if the customer has a premium plan to call internationally for free with "yes" or "no". This premium is reflected in the amount of monthly charge. 
 
-The churn rate of persons who actived international call but dont have Intl Plan is 72 %. These person can be potential clients for the new promotion of the Intl Plan. 
+Focus on the state that has the highest churn rate California, We can see that the churn rate of persons who actived international call but dont have Intl Plan is 72 %. These person can be potential clients for the new promotion of the Intl Plan. 
 
-Also, I discoverd that the churn rate for customers who have Intl Plan but dont but don't active the call is sky-high of 71.19 %.
-Recommand to Databel: Contact customers who are on Intl Plan but dont have international call and propose they to downgrade their plan. This will increase customer satisfaction and stop customer from churning.
+Also, I discoverd that in general, the churn rate for customers who have Intl Plan but dont but don't active the call is sky-high of 71.19 %.
+
+**Recommand to Databel**: Contact customers who are on Intl Plan but dont have international call and propose they to downgrade their plan. This will increase customer satisfaction and stop customer from churning.
+For California, navigate the promotion of Intl Plan to the customers churned and already active International call.
 
 ### III- Creating a cohesive story 
 
@@ -68,10 +74,20 @@ Recommand to Databel: Contact customers who are on Intl Plan but dont have inter
 2. Age Ggoup Page  
 From the age of 60 the churn rate increase. other graph tell us that moving cuqtomer in yearly contract could greatly reduce the churn rate.
 3. Payment and contract
+The churn rate of these customers is 53.90% ,quite high. It is clear that the ones who call customer service often is the ones who churn more than average.
 
 The average number of Customer Service calls of those who have Monthly contract and pay by Direct Debit is 1.47. This is high. 
-The churn rate of these cuqtoler is 53.90% ,quite high. It is clear that the ones who call customer service often is the ones who churn more than average. 
-Databel should definitely investigate what's going on here. Maybe there was a problem with teh payment method that need to be looked into. 
+Databel should definitely investigate what's going on here. Maybe there was a problem with the payment method that need to be looked into. 
 
+4. Extra charges
+The persons who don't use Unlimited Plan and use more than 10 GB have to pay average extra charges of 31.19 $
+
+6. Insight
+7. 
+The line chart discribes the Avg number of customer service calls by churn label Yes/No by State.  
+We can see that those make service calls have the higher churn rate compare to those don't make in each state.
+
+However, 
+We observe that CA is the state that has the highest churn rate but also has lowest number of customer service calls 
 
 
