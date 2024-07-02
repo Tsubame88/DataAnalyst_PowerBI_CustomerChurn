@@ -21,7 +21,9 @@ ____
     3. Create a map to investigate the churn rate by state :  CA is the state that has the highest churn rate of 63.24% 
 
 ### Over view 
-1. The average of churn rate is around 27%
+
+1. Present the important KPI : the churn rate over 51 states is quite high of 26.86 %
+1. 
 2. ~45% reasons why customers churn is related to the categories "competitor" . This could rase a question that "is Databell competitive enough ?"
 3. The churn rate in Caliofornia is abnormaly high at 63.24%
 BUt we dont have yet a clear explannation for this high churn rate
