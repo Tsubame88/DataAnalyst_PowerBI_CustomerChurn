@@ -22,11 +22,11 @@ ____
 
 ### Over view 
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Overview.png)
-1. Present the important KPI : the churn rate over 51 states is quite high of 26.86 %
-1. 
-2. ~45% reasons why customers churn is related to the categories "competitor" . This could rase a question that "is Databell competitive enough ?"
-3. The churn rate in Caliofornia is abnormaly high at 63.24%
-BUt we dont have yet a clear explannation for this high churn rate
+1. Present the important KPI : the churn rate across 51 states is quite high at 26.86 %
+2. Approximately 45% of the reasons why customers churn is related to the categories "competitor". This rises a question : "is Databell competitive enough ?"
+3. Persons with monthly contract tend to churn more than those with yearly contracts
+4. The churn rate of people not in a group is significantly higher than that of people in the groups
+5. The churn rate in Caliofornia is abnormaly high at 63.24%, we will analyse the Demographic in more detail on the next page
 
 ### Analysing Demograhic 
 1. Churn rate for Seniors citizens is  38.46% higher than the average churn rate around 10%. This might be good idea to analyse the customer age in general
