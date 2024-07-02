@@ -9,9 +9,9 @@ This analysis aims to uncover trends and patterns in customer behavior, helping 
 1. Analyze the reasons why the customers are churning
 2. Provide recommendations to Databel 
 ____
-## What is churn ?
+### What is churn ?
 
-## How to calculate churn rate 
+### How to calculate churn rate 
 
               Churn Rate = [Nb of Churn Customers] /[Nb of Customers]
 
