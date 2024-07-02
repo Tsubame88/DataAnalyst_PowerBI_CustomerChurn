@@ -1,12 +1,13 @@
-### Introduction 
+## Introduction 
 
 This project analyzes customer churn for Databel, a fictitious telecom company, using a dataset provided by DataCamp. 
 
 Utilizing Power BI, I examined key factors influencing customer churn to identify actionable insights for improving customer retention. 
 This analysis aims to uncover trends and patterns in customer behavior, helping Databel to develop effective strategies to reduce churn rates and enhance overall customer satisfaction.
 
-### Objective 
-Analyse why the customers are churning 
+## Objective 
+1. Analyze the reasons why the customers are churning
+2. Provide recommendations to Databel 
 
 ## What is churn ?
 
