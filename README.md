@@ -8,7 +8,7 @@ This analysis aims to uncover trends and patterns in customer behavior, helping 
 ## Objective 
 1. Analyze the reasons why the customers are churning
 2. Provide recommendations to Databel 
-
+____
 ## What is churn ?
 
 ## How to calculate churn rate 
