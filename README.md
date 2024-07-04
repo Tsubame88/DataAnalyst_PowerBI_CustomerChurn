@@ -40,7 +40,7 @@ We need to explore more about the factors that impact churn in this customer gro
 2. Churn rate by contract categories and gender
 Databel has Month-to-month, One-year and Two-year contracts. The churn rate for people with Monthly contract is significantly high, exceeding 40%, while the churn rate for people with yearly contracts is under 8%. Remember that the average churn rate is approximately 27%. It is clear that there is big difference in churn rate between monthly contract and yearly contract.
 
-Looking more closely at the contract length, we see an interesting insight: There are month-to-month contracts where the length account is exceed 12 months, even up to more than 24 months. 
+3. Looking more closely at the contract length, we see an interesting insight: There are month-to-month contracts where the length account is exceed 12 months, even up to more than 24 months. 
 Why don't these customers convert to yearly contract ? Let's examine the average monthly charge by contract category, there is very little difference. 
 
 **Therefore I highly recommend that Databel encourage their customers, especially those with Month-to-month contract exceeding 12 months, to switch to yearly contract. This will improve the churn rate.**
