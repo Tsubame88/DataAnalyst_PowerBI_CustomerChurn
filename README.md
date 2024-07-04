@@ -30,6 +30,7 @@ ____
 
 ### 2.Demographic analysis
 On the next page I will conduct a demographic analysis to understand the impact of age and sex on customer churn.
+![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/)
 
 1. Churn rate by age
    Databel has a wide range of customers from 19-year-olds to 85-year-olds. Within that range, the largest customer group is the 45 to 49-year-olds with 694 persons, followed by 25 to 29-year-olds group with 674 persons. 
