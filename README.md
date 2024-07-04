@@ -20,7 +20,7 @@ ____
     2. Visualize the churns by churn categories :  Almost half (44.82%)of customers churning are related to the churn category "Competitor"
     3. Create a map to investigate the churn rate by state :  CA is the state that has the highest churn rate of 63.24% 
 
-### Over view 
+### 1.Over view 
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Overview.png)
 1. Present the important KPI : the churn rate across 51 states is quite high at 26.86 %
 2. Approximately 45% of the reasons why customers churn is related to the categories "competitor". This rises a question : "is Databell competitive enough ?"
@@ -28,9 +28,22 @@ ____
 4. The churn rate of people not in a group is significantly higher than that of people in the groups
 5. The churn rate in Caliofornia is abnormaly high at 63.24%, we will analyse the Demographic in more detail on the next page
 
-### Analysing Demograhic 
-1. Churn rate for Seniors citizens is  38.46% higher than the average churn rate around 10%. This might be good idea to analyse the customer age in general
-2. The age bracket of 45 (45~49 ) has the highest number of customers and in general the churn rate inscreas as the age increases 
+### 2.Demographic analysis
+On the next page I will conduct a demographic analysis to understand the impact of age and sex on customer churn.
+
+1. Churn rate by age
+   Databel has a wide range of customers from 19-year-olds to 85-year-olds. Within that range, the largest customer group is the 45 to 49-year-olds with 694 persons, followed by 25 to 29-year-olds group with 674 persons. 
+From the 65-year-olds group onward, we can see an increase in the churn rate, which is higher than the average churn rate and tends to increase with age. 
+We need to explore more about the factors that impact churn in this customer group.
+
+2. Churn rate by contract categories and gender
+Databel has Month-to-month, One-year and Two-year contracts. The churn rate for people with Monthly contract is significantly high, exceeding 40%, while the churn rate for people with yearly contracts is under 8%. Remember that the average churn rate is approximately 27%. It is clear that there is big difference in churn rate between monthly contract and yearly contract.
+
+Looking more closely at the contract length, we see an interesting insight: There are month-to-month contracts where the length account is exceed 12 months, even up to more than 24 months. 
+Why don't these customers convert to yearly contract ? Let's examine the average monthly charge by contract category, there is very little difference. 
+
+**Therefore I highly recommend that Databel encourage their customers, especially those with Month-to-month contract exceeding 12 months, to switch to yearly contract. This will improve the churn rate.**
+
        
 ### Inspecting group 
 The Databell offers group contract to customers from the same household. The advantage of the customer is discounted rate while its a great way for Databel to grow its customer base.
@@ -71,26 +84,6 @@ Also, I discoverd that in general, the churn rate for customers who have Intl Pl
 **Recommand to Databel**: Contact customers who are on Intl Plan but dont have international call and propose they to downgrade their plan. This will increase customer satisfaction and stop customer from churning.
 For California, navigate the promotion of Intl Plan to the customers churned and already active International call.
 
-### III- Creating a cohesive story 
 
-1. Overview Page.
-2. Age Ggoup Page  
-From the age of 60 the churn rate increase. other graph tell us that moving cuqtomer in yearly contract could greatly reduce the churn rate.
-3. Payment and contract
-The churn rate of these customers is 53.90% ,quite high. It is clear that the ones who call customer service often is the ones who churn more than average.
-
-The average number of Customer Service calls of those who have Monthly contract and pay by Direct Debit is 1.47. This is high. 
-Databel should definitely investigate what's going on here. Maybe there was a problem with the payment method that need to be looked into. 
-
-4. Extra charges
-The persons who don't use Unlimited Plan and use more than 10 GB have to pay average extra charges of 31.19 $
-
-6. Insight
-7. 
-The line chart discribes the Avg number of customer service calls by churn label Yes/No by State.  
-We can see that those make service calls have the higher churn rate compare to those don't make in each state.
-
-However, 
-We observe that CA is the state that has the highest churn rate but also has lowest number of customer service calls 
 
 
