@@ -20,7 +20,7 @@ ____
     2. Visualize the churns by churn categories :  Almost half (44.82%)of customers churning are related to the churn category "Competitor"
     3. Create a map to investigate the churn rate by state :  CA is the state that has the highest churn rate of 63.24% 
 
-### 1.Over view 
+### 1. Over view 
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Overview.png)
 1. Present the important KPI : the churn rate across 51 states is quite high at 26.86 %
 2. Approximately 45% of the reasons why customers churn is related to the categories "competitor". This rises a question : "is Databell competitive enough ?"
@@ -28,7 +28,7 @@ ____
 4. The churn rate of people not in a group is significantly higher than that of people in the groups
 5. The churn rate in Caliofornia is abnormaly high at 63.24%, we will analyse the Demographic in more detail on the next page
 
-### 2.Demographic analysis
+### 2. Demographic analysis
 On the next page I will conduct a demographic analysis to understand the impact of age and sex on customer churn.
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Demography.png)
 
@@ -46,10 +46,14 @@ Why don't these customers convert to yearly contract ? Let's examine the average
 **Therefore I highly recommend that Databel encourage their customers, especially those with Month-to-month contract exceeding 12 months, to switch to yearly contract. This will improve the churn rate.**
 
        
-### Inspecting group 
-The Databell offers group contract to customers from the same household. The advantage of the customer is discounted rate while its a great way for Databel to grow its customer base.
-Analyse if the customers who are part of group have a lower phone bill and if it impacted on the churn rate.
-The groups from 2 persons have significantly lower average monthly charge than the person not in group contract.
+### 3. Analysis the extra charge 
+
+For those who are not with Unlimited Data Plan and Intl Plan, they have to pay extra charge depend on their data consumption and their international calls. Let's examine the impact of these extra charges on the churn rate.
+![alt text]()
+
+1. First, look at the average international charge of 32.27 $
+
+
 
 ### Inspecting the contract type 
 There are many kind of contract "One Year" "Two Year" "Month-to-Month". WE can gather "One Year" contract and "Two Year" contract into one. By this way we can observe the different between yearly contract and monthly contract .
