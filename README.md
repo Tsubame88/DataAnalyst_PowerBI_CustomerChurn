@@ -51,7 +51,10 @@ Why don't these customers convert to yearly contract ? Let's examine the average
 For those who are not with Unlimited Data Plan and Intl Plan, they have to pay extra charge depend on their data consumption and their international calls. Let's examine the impact of these extra charges on the churn rate.
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Extracharge.png)
 
-1. First, look at the average international charge of 32.27 $
+Databel has Internaltional Plan which is premium plan to International call for free and Unlimited Data Plan which let the customer to have unlimited dowload for free.
+For those who are not in these 2 premium plans, have to pay extra charge 
+Let's look closely at how extra charge affected on the churn rate
+1. Average Extra Data Charge is $37.27 
 
 
 
