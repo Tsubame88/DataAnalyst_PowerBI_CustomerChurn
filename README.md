@@ -49,7 +49,7 @@ Why don't these customers convert to yearly contract ? Let's examine the average
 ### 3. Analysis the extra charge 
 
 For those who are not with Unlimited Data Plan and Intl Plan, they have to pay extra charge depend on their data consumption and their international calls. Let's examine the impact of these extra charges on the churn rate.
-![alt text]()
+![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Extracharge.png)
 
 1. First, look at the average international charge of 32.27 $
 
