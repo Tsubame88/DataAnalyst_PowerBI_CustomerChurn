@@ -55,7 +55,8 @@ Databel has Internaltional Plan which is premium plan to International call for 
 For those who are not in these 2 premium plans, have to pay extra charge 
 Let's look closely at how extra charge affected on the churn rate
 
-1. By the chart of Churn Rate by the International Plan, we can see the churn rate for those who are on the International Plan but don't have any international call is significantly high, at over 70%. Databel should recommend that these customers back out from the Internaltional Plan if they don't need it as this will help them decrease their monthly charges. This could increase their satisfaction with Databel's customer service and prevent their churn . 
+** 1. Churn Rate by the International Plan**
+   we can see the churn rate for those who are on the International Plan but don't have any international call is significantly high, at over 70%. Databel should recommend that these customers back out from the Internaltional Plan if they don't need it as this will help them decrease their monthly charges. This could increase their satisfaction with Databel's customer service and prevent their churn . 
 
 The churn rate for those who are not on the International Plan but use international call is high, at over 40%, which can be understood as being caused by the high charge fees.
 
@@ -71,34 +72,15 @@ For those who are not on the Unlimited Data Plan, but use more than 5 GB, have h
 Databel should recommend that these customers use the Unlimited Data Plan as they have a high demand for it. 
 
 
-**Recommand to Databel**: to stop customer from churning we can propose them to use yearly contract.
 
-### Exploring the payment method 
+
+### 4. Exploring the payment method 
 There are 3 types of payments and "Paper check" has the smallest of customers only 371 persons 5.55% of total 
 
-### Inspecting the Unlimited Data Plan 
 
-    **Unlimited Data Plan** : Indicate if the customer has free unlimited download capacity with "Yes" or "NO". This premium is reflected in the amount of monthly charge.
 
-It appears that customers who are on unlimited plan are more likely to churn 32.11% compare to 16.10% of those who are not .
 
-Let's see if it is related to a certain amount of mobile data(GB) being used 
 
-CHurn rate for people on an unlimited plan who consume less than 5 GB of data is 34.71%.
-Its quite high. 
-**Recommand to Databal** : Contact customers who are on Unlimited Plan but use less than 5G and propose them to downgrade their plan. This will increase customers satisfaction and stop customer from churning.
-
-### Inspecting International call 
-Databel curious about the behavior of customers who call internationally and if paying for an international plan influences their loyalty 
-
-**Intl Plan**: indicates if the customer has a premium plan to call internationally for free with "yes" or "no". This premium is reflected in the amount of monthly charge. 
-
-Focus on the state that has the highest churn rate California, We can see that the churn rate of persons who actived international call but dont have Intl Plan is 72 %. These person can be potential clients for the new promotion of the Intl Plan. 
-
-Also, I discoverd that in general, the churn rate for customers who have Intl Plan but dont but don't active the call is sky-high of 71.19 %.
-
-**Recommand to Databel**: Contact customers who are on Intl Plan but dont have international call and propose they to downgrade their plan. This will increase customer satisfaction and stop customer from churning.
-For California, navigate the promotion of Intl Plan to the customers churned and already active International call.
 
 
 
