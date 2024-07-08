@@ -64,20 +64,27 @@ For those who are not in these 2 premium plans, have to pay extra charge
 Let's look closely at how extra charge affected on the churn rate
 
 1. Churn Rate by the International Plan
-   we can see the churn rate for those who are on the International Plan but don't have any international call is significantly high, at over 70%. Databel should recommend that these customers back out from the Internaltional Plan if they don't need it as this will help them decrease their monthly charges. This could increase their satisfaction with Databel's customer service and prevent their churn . 
+we can see the churn rate for those who are on the International Plan but don't have any international call is significantly high, at over 70%.
+
+**Recommendation for Databel**: Databel should recommend that these customers back out from the Internaltional Plan if they don't need it as this will help them decrease their monthly charges. This could increase their satisfaction with Databel's customer service and prevent their churn . 
 
 The churn rate for those who are not on the International Plan but use international call is high, at over 40%, which can be understood as being caused by the high charge fees.
-
-The average extra international charge is $37.27, but ss the chart of churn rate by Extra Internaltional Charges, we can see that there are many customers spend more than $100, even up to $300 or $400, although the number of these customers is not large. 
+The average extra international charge is $37.27, but as the chart of churn rate by Extra Internaltional Charges, we can see that there are many customers spend more than $100, even up to $300 or $400, although the number of these customers is not large. 
 
 More than 5000 customers spend under $20 for the Extra international charge, and the churn rate for this group is 24.77%, lower than the average churn rate of ~ 27%
-For those who spend $20 to $240, the churn rate is high, at over 30%. Databel should recommend that these customers use the Internaltion Plan early after observing their spending over $20, as they have a high demand for it. This will increase their satisfaction with Databel's customer service.   
+For those who spend $20 to $240, the churn rate is high, at over 30%. 
 
-2. Churn rate by extra data charge, we can see the same situation
-For those who are on the Unlimited Data Plan but use less than 5 GB, the churn rate is high, at nearly 35%. Databel should recommend that these customer back out from the Unlimited Plan as they don't need it. This will increase their satisfaction and prevent the churn.
+**Recommendation for Databel**: Databel should recommend that these customers use the Internaltion Plan early after observing their spending over $20, as they have a high demand for it. This will increase their satisfaction with Databel's customer service.   
+
+2. Churn rate by extra data charge
+we can see the same situation
+For those who are on the Unlimited Data Plan but use less than 5 GB, the churn rate is high, at nearly 35%.
+
+**Recommendation for Databel**: Databel should recommend that these customer back out from the Unlimited Plan as they don't need it. This will increase their satisfaction and prevent the churn.
 
 For those who are not on the Unlimited Data Plan, but use more than 5 GB, have high churn rate, which can be understood as being caused by the high extra data charges, which is over $31 per month, even higher than average monthly charge. 
-Databel should recommend that these customers use the Unlimited Data Plan as they have a high demand for it. 
+
+**Recommendation for Databel**: Databel should recommend that these customers use the Unlimited Data Plan as they have a high demand for it. 
 
 
 
