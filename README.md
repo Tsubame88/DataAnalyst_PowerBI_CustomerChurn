@@ -90,7 +90,7 @@ Let's look closely at how extra charge affected on the churn rate
 
 ## 4. Exploring the payment method 
 On this page we will examine the Average of Customer Service calls and the payment methods and their affects on the churn rate upon states. 
-![alt text]()
+![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_CSC_payment.png)
 The average number of customer service calls is 0.92 and has no relation to the churn rate.
 
 There are 3 types of payments: Paper check, Direct Debit and Credit card. The Paper check method has the highest churn rate of 38.01%, although the number of customers using this method is very few, at 371 persons.
