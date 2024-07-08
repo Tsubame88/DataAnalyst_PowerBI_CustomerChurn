@@ -63,7 +63,7 @@ Databel has Internaltional Plan which is premium plan to International call for 
 For those who are not in these 2 premium plans, have to pay extra charge 
 Let's look closely at how extra charge affected on the churn rate
 
-## 1. Churn Rate by the International Plan
+#### 1. Churn Rate by the International Plan
   we can see the churn rate for those who are on the International Plan but don't have any international call is significantly high, at over 70%.
 
   **Recommendation for Databel**: Databel should recommend that these customers back out from the Internaltional Plan if they don't need it as this will help them decrease their monthly charges. This could increase their satisfaction with Databel's customer service and prevent their churn . 
