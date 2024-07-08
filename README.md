@@ -88,10 +88,13 @@ Let's look closely at how extra charge affected on the churn rate
 
 
 
-### 4. Exploring the payment method 
-There are 3 types of payments and "Paper check" has the smallest of customers only 371 persons 5.55% of total 
+## 4. Exploring the payment method 
+On this page we will examine the Average of Customer Service calls and the payment methods and their affects on the churn rate upon states. 
+![alt text]()
+The average number of customer service calls is 0.92 and has no relation to the churn rate.
 
-
+There are 3 types of payments: Paper check, Direct Debit and Credit card. The Paper check method has the highest churn rate of 38.01%, although the number of customers using this method is very few, at 371 persons.
+The Direct Debit is the most popular payment method with more than 3700 users, accounting for 60% of total charges and the churn rate of this group is quite high, at 34.49%. Databel should to focus on this group of customers and analyse more about their reason for churning.
 
 
 
