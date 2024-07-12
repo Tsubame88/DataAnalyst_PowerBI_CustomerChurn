@@ -9,7 +9,7 @@ This analysis aims to uncover trends and patterns in customer behavior, helping 
 1. Analyze the reasons why the customers are churning
 2. Provide recommendations to Databel 
 ____
-### What is churn ?
+# What is churn ?
 ![define_churn](https://github.com/user-attachments/assets/a92ce0ca-e8c6-479c-a6e3-16735461745b)
 
 ### How to calculate churn rate 
