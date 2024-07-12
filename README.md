@@ -10,11 +10,12 @@ This analysis aims to uncover trends and patterns in customer behavior, helping 
 2. Provide recommendations to Databel 
 ____
 ### What is churn ?
+![define_churn](https://github.com/user-attachments/assets/a92ce0ca-e8c6-479c-a6e3-16735461745b)
 
 ### How to calculate churn rate 
 
               Churn Rate = [Nb of Churn Customers] /[Nb of Customers]
-              
+          
 ### Calculate the average extra data charges 
 
               Avg Extra Data Charges = SUM('Databel - Data'[Extra Data Charges]) / CALCULATE([Nb of Customers],'Databel - Data'[Unlimited Data Plan] = "No")
@@ -23,10 +24,7 @@ ____
 
               Avg Extra International Charges = SUM('Databel - Data'[Extra International Charges]) / CALCULATE([Nb of Customers],'Databel - Data'[Intl Plan] = "No")
               
-### Investigate why customers churn 
-    1. Visualize the % churner by reason in which the 2 factors that have the most impact on churn rate come from competitor 
-    2. Visualize the churns by churn categories :  Almost half (44.82%)of customers churning are related to the churn category "Competitor"
-    3. Create a map to investigate the churn rate by state :  CA is the state that has the highest churn rate of 63.24% 
+
 
 ## 1. Over view 
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Overview.png)
@@ -41,14 +39,18 @@ On the next page I will conduct a demographic analysis to understand the impact 
 ![alt text](https://github.com/Tsubame88/DataAnalyst_PowerBI_CustomerChurn/blob/main/Screenshot_Demography.png)
 
 ### 1. Churn rate by age
+
    Databel has a wide range of customers from 19-year-olds to 85-year-olds. Within that range, the largest customer group is the 45 to 49-year-olds with 694 persons, followed by 25 to 29-year-olds group with 674 persons. 
   From the 65-year-olds group onward, we can see an increase in the churn rate, which is higher than the average churn rate and tends to increase with age. 
   We need to explore more about the factors that impact churn in this customer group.
 
 ### 2. Churn rate by contract categories and gender
+
   Databel has Month-to-month, One-year and Two-year contracts. The churn rate for people with Monthly contract is significantly high, exceeding 40%, while the churn rate for people with yearly contracts is under 8%. Remember that the average churn rate is approximately 27%. It is clear that there is big difference in churn rate between monthly contract and yearly contract.
 
-### 3. Looking more closely at the contract length, we see an interesting insight: There are month-to-month contracts where the length account is exceed 12 months, even up to more than 24 months. 
+### 3. Looking more closely at the contract length, we see an interesting insight: 
+
+There are month-to-month contracts where the length account is exceed 12 months, even up to more than 24 months. 
 Why don't these customers convert to yearly contract ? Let's examine the average monthly charge by contract category, there is very little difference. 
 
 **Therefore I highly recommend that Databel encourage their customers, especially those with Month-to-month contract exceeding 12 months, to switch to yearly contract. This will improve the churn rate.**
